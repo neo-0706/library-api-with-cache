@@ -32,7 +32,7 @@ class SearchCache:
         key = self._make_key(q , limit)
         self.cache[key] = value
     
-    def get_status(self) -> dict:
+    def get_stats(self) -> dict:
         """Return cache statistics"""
         hit_ratio = 0
         if self.total_requests > 0:
