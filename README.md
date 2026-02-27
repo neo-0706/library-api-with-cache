@@ -8,7 +8,7 @@
 
 <p align="center">
   <b>A high-performance Library API with in-memory caching layer</b><br/>
-  Built on top of the original <a href="https://github.com/yourusername/library-api">Library API</a> project
+  Built on top of the original <a href="https://github.com/neo-0706/library-api-with-in-memory-cache">Library API</a> project
 </p>
 
 ---
